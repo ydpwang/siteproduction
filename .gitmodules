@@ -1,0 +1,4 @@
+[submodule "sites/all/themes/zen"]
+	path = sites/all/themes/zen
+	url = http://git.drupal.org/project/zen.git
+	branch = 7.x-5.x
